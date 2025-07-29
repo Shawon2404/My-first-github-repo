@@ -1,0 +1,10 @@
+div{
+    background-color: brown;
+    border: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+p{
+    /* padding: 0px; */
+    margin: 0;
+}  
